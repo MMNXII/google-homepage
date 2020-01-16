@@ -1,0 +1,81 @@
+html {
+    box-sizing: border-box;
+  }
+
+.nav-container {
+    margin-bottom: 180px;
+}
+
+.navleft, .navright {
+    display: inline;
+    font-size: 13px;
+    opacity: 0.9;
+    font-family: sans-serif;
+}
+
+.navright {
+    position: relative;
+    float: right;    
+}
+
+.google-logo, .searchbar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.searchbar {
+    width: 400px;
+    border-radius: 20px;
+    height: 30px;
+    
+}
+
+.buttons {
+    text-align: center;
+    opacity: 0.6;
+}
+
+.googlesearch, .lucky {
+    border-radius: 3px;
+    background-color: rgb(204, 204, 204);
+    padding: 10px;
+}
+
+.textbelowsearch {
+    text-align: center;
+}
+
+.footer-container {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footeritems {
+    background-color: rgb(233, 233, 233);
+    padding: 15px;
+}
+
+.leftfoot, .rightfoot {
+    display: inline;
+    font-size: 13px;
+    opacity: 0.9;
+    font-family: sans-serif;
+}
+
+.about, .gmail {
+    margin-right: 10px;
+}
+
+.adv, .bus {
+    margin-right: 10px;
+}
+
+.rightfoot {
+    position: relative;
+    float: right;
+    margin-right: 10px;
+}
+
